@@ -1,2 +1,4 @@
 Hello, this is my first GitHub project.
 I am learning Git step by step.
+
+This is my second commit.
